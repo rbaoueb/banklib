@@ -1,0 +1,28 @@
+**/.DS_Store
+bin/
+*.log
+local.properties
+
+.directory
+*.hprof
+
+# Gradle
+**/build/
+**/.gradle/
+
+# Eclipse
+**/.settings/
+**/.classpath
+**/.project
+**/.metadata/
+
+# Intellij
+**/*.iml
+**/.idea/
+dump.rdb
+
+# Netbeans
+**/nb-configuration.xml
+**/target
+/input/
+/output/
